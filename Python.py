@@ -8,4 +8,4 @@ Rate = float(input("Enter the rate of interest: "))
 
 SimpleInterset = (Amount*Year*Rate)/100
 
-print("The simple interset is:", SimpleInterset)
+print("The simple interset is:", SimpleInterset,'%')
